@@ -2,7 +2,7 @@
   "name": "nodejs-pro-sante-connect",
   "version": "1.0.0",
   "description": "",
-  "main": "build/pro-sante-connect.js",
+  "main": "build/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skezi/nodejs-pro-sante-connect.git"

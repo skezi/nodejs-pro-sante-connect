@@ -1,5 +1,5 @@
-src/index.ts
+src/test.ts
 node_modules
-build/index.*
+build/test.*
 Dockerfile
 package-lock.json

@@ -11,11 +11,11 @@
 
 ## Begin for dev environment class :
 
-* `import { ProdProSanteConnectService } from './services/pro-sante-connect.service';`
+* `import { ProdProSanteConnect } from 'nodejs-pro-sante-connect';`
 
 ## Begin for prod environment class :
 
-* `import { DevProSanteConnectService } from './services/pro-sante-connect.service';`
+* `import { DevProSanteConnect } from 'nodejs-pro-sante-connect';`
 
 ## Class functions :
 

@@ -153,7 +153,7 @@ class ProSanteConnectService {
     }
 }
 
-export class DevProSanteConnectService extends ProSanteConnectService {
+export class DevProSanteConnect extends ProSanteConnectService {
     constructor() {
         super (
             'https://wallet.bas.psc.esante.gouv.fr/auth',
@@ -165,7 +165,7 @@ export class DevProSanteConnectService extends ProSanteConnectService {
     }
 }
 
-export class ProdProSanteConnectService extends ProSanteConnectService {
+export class ProdProSanteConnect extends ProSanteConnectService {
     constructor() {
         super (
             'https://wallet.esw.esante.gouv.fr/auth',
