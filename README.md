@@ -11,15 +11,15 @@
 
 ## Begin for dev environment class :
 
-* import { ProdProSanteConnectService } from './services/pro-sante-connect.service';
+* `import { ProdProSanteConnectService } from './services/pro-sante-connect.service';`
 
 ## Begin for prod environment class :
 
-* import { DevProSanteConnectService } from './services/pro-sante-connect.service';
+* `import { DevProSanteConnectService } from './services/pro-sante-connect.service';`
 
 ## Class functions :
 
-* getApiTest
+* `async` getApiTest
 * getAuthenticationUrl
 * setAuthenticationCode
 * `async` getUserInfo
